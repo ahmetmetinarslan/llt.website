@@ -6,4 +6,4 @@ Liam Leonard Terminal Websit<br>
 -The <a href="https://github.com/nextapps-de/winbox">winbox</a> library is used for this site.<br>
 <a href="https://terminalwebsite.netlify.app/">DEMO</a>
 <hr>
-![alt text](https://github.com/ahmetmetinarslan/llt.website/blob/main/Terminal%20Website/s1.png?raw=true)
+<img src="https://github.com/ahmetmetinarslan/llt.website/blob/main/Terminal%20Website/s1.png?raw=true" width="auto">
