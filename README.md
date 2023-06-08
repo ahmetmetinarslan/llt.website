@@ -1,5 +1,5 @@
 # llt.website
-Liam Leonard Terminal Websit<br>
+Liam Leonard Terminal Website<br>
 
 -A personal website that we give a terminal appearance has been prepared.<br>
 -This site is coded using html, css and js.<br>
